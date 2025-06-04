@@ -1,6 +1,3 @@
----
-
-```markdown
 # YT-MLOPS-Docker-Masterclass
 
 This repository is part of my learning journey with Docker. The goal is to implement Docker using hands-on experiments, Docker Desktop, and Docker Hub, along with a simple Python project.
